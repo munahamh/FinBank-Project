@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📖 نبذة عن المشروع
-**FinBank** هو مشروع تخرج يهدف إلى تقديم تجربة بنكية رقمية حديثة وآمنة. يركز التطبيق على تسهيل إدارة الأموال الشخصية من خلال واجهات تفاعلية (Interactive UI)، تحليلات مالية دقيقة، ونظام مدفوعات ذكي يحاكي الأنظمة البنكية العالمية.
+**FinBank** هو مشروع  يهدف إلى تقديم تجربة بنكية رقمية حديثة وآمنة. يركز التطبيق على تسهيل إدارة الأموال الشخصية من خلال واجهات تفاعلية (Interactive UI)، تحليلات مالية دقيقة، ونظام مدفوعات ذكي يحاكي الأنظمة البنكية العالمية.
 تم بناء المشروع باستخدام أحدث تقنيات الويب **(MERN Stack)** مع التركيز على تجربة المستخدم (UX) والأمان العالي.
 
 ---
@@ -60,6 +60,21 @@
 | لوحة التحكم (Dashboard) | مركز المدفوعات (Payment Hub) |
 
 | التقارير المالية (Reports) | تسجيل الدخول الآمن (Login & 2FA) |
+<img width="888" height="825" alt="Ekran görüntüsü 2026-02-23 205926" src="https://github.com/user-attachments/assets/d824d6e6-8e45-4986-a1c7-15973ea9597a" />
+<img width="1885" height="909" alt="Ekran görüntüsü 2026-02-23 205750" src="https://github.com/user-attachments/assets/24251b98-ecd9-4e81-8064-a180d2fa5760" />
+<img width="1897" height="891" alt="Ekran görüntüsü 2026-02-23 205759" src="https://github.com/user-attachments/assets/414d058e-ee0b-43a4-9027-0a38bdad79d0" />
+<img width="1888" height="901" alt="Ekran görüntüsü 2026-02-23 205806" src="https://github.com/user-attachments/assets/0c145efb-8b07-4494-86da-6494aa0ba2ec" />
+<img width="1883" height="887" alt="Ekran görüntüsü 2026-02-23 205812" src="https://github.com/user-attachments/assets/a4121d16-11f2-4051-9fea-ec4642dc9dcf" />
+<img width="1895" height="883" alt="Ekran görüntüsü 2026-02-23 205825" src="https://github.com/user-attachments/assets/8d644a6e-923b-4ad3-889c-56c549e3cc5a" />
+<img width="1891" height="896" alt="Ekran görüntüsü 2026-02-23 205833" src="https://github.com/user-attachments/assets/c6258278-0a17-4924-93f1-bc926951b747" />
+<img width="1894" height="897" alt="Ekran görüntüsü 2026-02-23 205839" src="https://github.com/user-attachments/assets/f6a63c18-c59c-4fc4-862f-c83306f56211" />
+
+<img width="1883" height="895" alt="Ekran görüntüsü 2026-02-23 205819" src="https://github.com/user-attachments/assets/961ba917-6eb2-4839-b1fb-b212750d0004" />
+<img width="1099" height="869" alt="Ekran görüntüsü 2026-02-23 205846" src="https://github.com/user-attachments/assets/f10acae0-cacd-4225-897c-ae4185f034c2" />
+<img width="901" height="904" alt="Ekran görüntüsü 2026-02-23 205852" src="https://github.com/user-attachments/assets/cff7f2b8-0738-46da-9a07-401c0f79a496" />
+<img width="888" height="825" alt="Ekran görüntüsü 2026-02-23 205926" src="https://github.com/user-attachments/assets/8c01eef6-8ab9-4934-ba06-5273960eb6e9" />
+
+
 
 
 
