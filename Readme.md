@@ -60,7 +60,7 @@
 | لوحة التحكم (Dashboard) | مركز المدفوعات (Payment Hub) |
 
 | التقارير المالية (Reports) | تسجيل الدخول الآمن (Login & 2FA) |
-<img width="888" height="825" alt="Ekran görüntüsü 2026-02-23 205926" src="https://github.com/user-attachments/assets/d824d6e6-8e45-4986-a1c7-15973ea9597a" />
+
 <img width="1885" height="909" alt="Ekran görüntüsü 2026-02-23 205750" src="https://github.com/user-attachments/assets/24251b98-ecd9-4e81-8064-a180d2fa5760" />
 <img width="1897" height="891" alt="Ekran görüntüsü 2026-02-23 205759" src="https://github.com/user-attachments/assets/414d058e-ee0b-43a4-9027-0a38bdad79d0" />
 <img width="1888" height="901" alt="Ekran görüntüsü 2026-02-23 205806" src="https://github.com/user-attachments/assets/0c145efb-8b07-4494-86da-6494aa0ba2ec" />
@@ -70,9 +70,9 @@
 <img width="1894" height="897" alt="Ekran görüntüsü 2026-02-23 205839" src="https://github.com/user-attachments/assets/f6a63c18-c59c-4fc4-862f-c83306f56211" />
 
 <img width="1883" height="895" alt="Ekran görüntüsü 2026-02-23 205819" src="https://github.com/user-attachments/assets/961ba917-6eb2-4839-b1fb-b212750d0004" />
-<img width="1099" height="869" alt="Ekran görüntüsü 2026-02-23 205846" src="https://github.com/user-attachments/assets/f10acae0-cacd-4225-897c-ae4185f034c2" />
-<img width="901" height="904" alt="Ekran görüntüsü 2026-02-23 205852" src="https://github.com/user-attachments/assets/cff7f2b8-0738-46da-9a07-401c0f79a496" />
-<img width="888" height="825" alt="Ekran görüntüsü 2026-02-23 205926" src="https://github.com/user-attachments/assets/8c01eef6-8ab9-4934-ba06-5273960eb6e9" />
+<img width="1099" height="600" alt="Ekran görüntüsü 2026-02-23 205846" src="https://github.com/user-attachments/assets/f10acae0-cacd-4225-897c-ae4185f034c2" />
+<img width="901" height="600" alt="Ekran görüntüsü 2026-02-23 205852" src="https://github.com/user-attachments/assets/cff7f2b8-0738-46da-9a07-401c0f79a496" />
+<img width="888" height="600" alt="Ekran görüntüsü 2026-02-23 205926" src="https://github.com/user-attachments/assets/8c01eef6-8ab9-4934-ba06-5273960eb6e9" />
 
 
 
