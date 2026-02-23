@@ -70,9 +70,9 @@
 <img width="1894" height="897" alt="Ekran görüntüsü 2026-02-23 205839" src="https://github.com/user-attachments/assets/f6a63c18-c59c-4fc4-862f-c83306f56211" />
 
 <img width="1883" height="895" alt="Ekran görüntüsü 2026-02-23 205819" src="https://github.com/user-attachments/assets/961ba917-6eb2-4839-b1fb-b212750d0004" />
-<img width="1099" height="600" alt="Ekran görüntüsü 2026-02-23 205846" src="https://github.com/user-attachments/assets/f10acae0-cacd-4225-897c-ae4185f034c2" />
-<img width="901" height="600" alt="Ekran görüntüsü 2026-02-23 205852" src="https://github.com/user-attachments/assets/cff7f2b8-0738-46da-9a07-401c0f79a496" />
-<img width="888" height="600" alt="Ekran görüntüsü 2026-02-23 205926" src="https://github.com/user-attachments/assets/8c01eef6-8ab9-4934-ba06-5273960eb6e9" />
+<img width="1099" height="852" alt="Ekran görüntüsü 2026-02-23 205846" src="https://github.com/user-attachments/assets/f10acae0-cacd-4225-897c-ae4185f034c2" />
+<img width="901" height="852" alt="Ekran görüntüsü 2026-02-23 205852" src="https://github.com/user-attachments/assets/cff7f2b8-0738-46da-9a07-401c0f79a496" />
+<img width="888" height="852" alt="Ekran görüntüsü 2026-02-23 205926" src="https://github.com/user-attachments/assets/8c01eef6-8ab9-4934-ba06-5273960eb6e9" />
 
 
 
