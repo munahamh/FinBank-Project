@@ -42,6 +42,11 @@ app.use('/api/tickets', ticketRoutes);
 app.use('/api/reports', reportRoutes); // في الأسفل مع باقي المسارات
 app.use('/api/payments', paymentRoutes);
 app.use('/api/wallet', walletRoutes);
+app.use(cors({
+  origin: ["https://finbank-frontend.vercel.app"], // رابط الفرونت إند بعد النشر
+  credentials: true
+}));
+
 
 
 
@@ -79,3 +84,6 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+
+// في نهاية الملف
+module.exports = app;
