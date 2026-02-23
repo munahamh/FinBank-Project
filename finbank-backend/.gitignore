@@ -1,0 +1,25 @@
+# ملفات بيئة العمل والبيانات الحساسة (أهم سطر)
+.env
+*/.env
+
+# مجلدات المكتبات (حجمها كبير جداً ولا يجب رفعها)
+node_modules/
+*/node_modules/
+package-lock.json
+package.json
+
+# مجلد الصور المرفوعة (حتى لا ترفعي صور تجريبية للمستخدمين)
+uploads/
+
+# ملفات السجلات (Logs)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+dist/
+build/
+
+
+# ملفات نظام التشغيل (تتولد تلقائياً)
+.DS_Store
+Thumbs.db
